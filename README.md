@@ -12,6 +12,6 @@ The activities which i usually going to do
 -Moddys Choclate
 -Pandi curry
 
-
+[r](/Mystats.md)
 
 
