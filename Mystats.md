@@ -18,3 +18,13 @@ Sports keep us fit and helathy and make life to live longer by playing these spo
 | Basketball | Helps to improve moments in body    |    8           |    
 | Volleyball | arm strength can be increased       |    5           |
 | Shuttle    |  Improves eye stability capacity    |    4           |
+
+---
+
+## Quotes by Scientists
+
+> The main thing is not to stop questioning.
+> - *Dr. Albert Einsten*
+
+> The enemy ok knowledge is not the ignorance, it is illusion of the knowledge.
+> - *Dr. Stephen Hawking*
