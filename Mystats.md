@@ -28,3 +28,17 @@ Sports keep us fit and helathy and make life to live longer by playing these spo
 
 > The enemy ok knowledge is not the ignorance, it is illusion of the knowledge.
 > - *Dr. Stephen Hawking*
+
+---
+
+stack overflow: <https://stackoverflow.com/questions/48886601/how-to-properly-make-301-redirect>
+
+``` htaccess
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+Redirect 301 / http://newsite.com/
+
+```
+
+snippet source: <https://css-tricks.com/snippets/htaccess/301-redirects/>
+
